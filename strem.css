@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+
+header nav a{
+    margin-right: 3rem;
+}
+section dl dt{
+    color: blue;
+}
+footer a img{
+    height: 40px;
+    width: 40px;
+    margin-right: 2rem;
+}
